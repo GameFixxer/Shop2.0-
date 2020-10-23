@@ -20,17 +20,10 @@
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Model/ProductORM.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Model/ProductSchema.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Service/DatabaseManager.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shop2.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shop2.0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symfony2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/CommentController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/Homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Homepage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/questions/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/questions/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/question/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/question/show.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,10 +158,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="837" y="310" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.3840.2160@72.27.1848.1053" timestamp="1603352528496" />
-    <state x="698" y="273" width="585" height="568" key="NewPhpClassDialog" timestamp="1603352802195">
+    <state x="698" y="273" width="585" height="568" key="NewPhpClassDialog" timestamp="1603449718454">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="698" y="273" width="585" height="568" key="NewPhpClassDialog/72.27.1848.1053/1920.0.3840.2160@72.27.1848.1053" timestamp="1603352802195" />
+    <state x="698" y="273" width="585" height="568" key="NewPhpClassDialog/72.27.1848.1053/1920.0.3840.2160@72.27.1848.1053" timestamp="1603449718454" />
     <state x="543" y="198" width="1022" height="737" key="SettingsEditor" timestamp="1603447847884">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
