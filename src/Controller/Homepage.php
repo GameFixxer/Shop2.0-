@@ -10,7 +10,7 @@ use Symfony\Component\Routing\Annotation\Route;
 class Homepage extends AbstractController
 {
     /**
-     * @Route("/")
+     * @Route("/", name="shop_homepage")
      * @return Response;
      */
 
@@ -20,7 +20,7 @@ class Homepage extends AbstractController
     }
 
     /**
-     * @Route("/question/{wildcard}")
+     * @Route("/question/{wildcard}" , name="shop_question_show")
      * @param string $wildcard
      * @return Response
      */
