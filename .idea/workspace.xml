@@ -20,10 +20,8 @@
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Model/ProductORM.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Model/ProductSchema.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Service/DatabaseManager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/CommentController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/question/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/question/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/CommentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/CommentController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
