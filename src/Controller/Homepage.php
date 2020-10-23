@@ -16,11 +16,11 @@ class Homepage extends AbstractController
 
     public function home()
     {
-        return new Response('There is no place lice 127.0.0.1');
+        return $this->render('question/homepage.html.twig');
     }
 
     /**
-     * @Route("/questions/{wildcard}")
+     * @Route("/question/{wildcard}")
      * @param string $wildcard
      * @return Response
      */
@@ -31,7 +31,7 @@ class Homepage extends AbstractController
             'wasting countless hours in meetings wihout archiving anything',
             'drink even more coffee'
         ];
-        return $this->render('questions/show.html.twig', [
+        return $this->render('question/show.html.twig', [
             'question' => ucwords(str_replace('-', ' ', $wildcard)),
             'answers' => $answers
         ]);
