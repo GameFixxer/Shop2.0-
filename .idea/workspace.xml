@@ -20,8 +20,17 @@
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Model/ProductORM.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Model/ProductSchema.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Service/DatabaseManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shop2.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shop2.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/symfony2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Homepage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/questions/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/questions/show.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +93,17 @@
       <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/xervice/core" />
+      <path value="$PROJECT_DIR$/vendor/xervice/console" />
+      <path value="$PROJECT_DIR$/vendor/xervice/config" />
+      <path value="$PROJECT_DIR$/vendor/xervice/data-provider" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/nette/php-generator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jDv4zlwKuxZY5MffAA45CN3Bju" />
@@ -96,7 +116,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -140,9 +169,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="698" y="273" width="585" height="568" key="NewPhpClassDialog/72.27.1848.1053/1920.0.3840.2160@72.27.1848.1053" timestamp="1603352802195" />
-    <state x="543" y="198" width="1022" height="737" key="SettingsEditor" timestamp="1603352534169">
+    <state x="543" y="198" width="1022" height="737" key="SettingsEditor" timestamp="1603447847884">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="543" y="198" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.3840.2160@72.27.1848.1053" timestamp="1603352534169" />
+    <state x="543" y="198" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.3840.2160@72.27.1848.1053" timestamp="1603447847884" />
   </component>
 </project>
