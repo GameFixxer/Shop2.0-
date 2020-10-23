@@ -20,6 +20,8 @@
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Model/ProductORM.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Model/ProductSchema.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CycleORMStart/src/Service/DatabaseManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +84,6 @@
       <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
-      <path value="$PROJECT_DIR$/vendor/nette/php-generator" />
-      <path value="$PROJECT_DIR$/vendor/nette/utils" />
-      <path value="$PROJECT_DIR$/vendor/xervice/console" />
-      <path value="$PROJECT_DIR$/vendor/xervice/data-provider" />
-      <path value="$PROJECT_DIR$/vendor/xervice/config" />
-      <path value="$PROJECT_DIR$/vendor/xervice/core" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jDv4zlwKuxZY5MffAA45CN3Bju" />
